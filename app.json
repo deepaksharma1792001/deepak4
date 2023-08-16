@@ -7,21 +7,21 @@
     "success_url": "",
     "stack": "container",
     "env": {
-        "APP_ID": {
+        "APP_ID": 20416209{
             "description": "You api id get it from my.telegram.org or @apiScrapperRoBot",
-            "value": "20416209"
+            "value": ""
         },
-        "API_HASH": {
+        "API_HASH":3725750915be1380db15cd21a301443a {
             "description": "You api hash get it from my.telegram.org or @apiScrapperRoBot.",
-            "value": "3725750915be1380db15cd21a301443a"
+            "value": ""
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN":6438476557:AAHJKcb3GLlLA_zW2SGtoEKB91CZxSKX1jA {
             "description": "Make a bot from @BotFather and enter it's api token",
-            "value": "6438476557:AAHJKcb3GLlLA_zW2SGtoEKB91CZxSKX1jA"
+            "value": ""
         },
-        "OWNER": {
+        "OWNER": Starlord3337 {
             "description": "Put ids of user which can access the bot e.g 123456789",
-            "value": "Starlord3337"
+            "value": ""
         },
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
